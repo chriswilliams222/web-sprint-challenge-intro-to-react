@@ -30,11 +30,19 @@ Be prepared to demonstrate your understanding of this week's concepts by answeri
 
 1. What is React JS and what problems does it solve? Support your answer with concepts introduced in class and from your personal research on the web.
 
+React JS creates a codebase  that mixes HTML elements and JS elements into JSX, allowing the code to become modular and reuseable within multiple sections of a page.
+
 1. Describe component state.
+
+Component state is a dom snapshot that is compared for changes and reloads only with differences, compared to the entire page.
 
 1. Describe props.
 
+Props are properties that are passed from the Parent component to the children components, allowing them to be utilized in separate sections of code.
+
 1. What are side effects, and how do you sync effects in a React component to changes of certain state or props?
+
+A side effect is the change to an element based on the occurance of events within the application.
 
 You are expected to be able to answer questions in these areas. Your responses contribute to your Sprint Challenge grade.
 
